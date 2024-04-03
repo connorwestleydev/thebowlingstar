@@ -13,4 +13,9 @@ public class BowlingGameTest {
     public void jessicaTestTwo() {
         System.out.println("Second test");
     }
+
+    @Test
+    public void lisaTestThree() {
+        System.out.println("Lisa's third test");
+    }
 }
