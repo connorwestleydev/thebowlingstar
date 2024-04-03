@@ -23,12 +23,13 @@ public class BowlingGame2Test {
     }
 
     @Test
+<<<<<<< HEAD
     public void jessicaTestEight() {
 
     }
 
     @Test
-    public void jessicaTestNine() {
+    public void lisaTestNine() {
 
     }
 }
