@@ -32,4 +32,9 @@ public class BowlingGame2Test {
     public void lisaTestNine() {
 
     }
+
+    @Test
+    public void listTestTen() {
+
+    }
 }
